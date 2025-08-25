@@ -1,0 +1,3 @@
+The cheetah is the fastest land animal, reaching speeds up to 70 mph.
+Python is a programming language known for its simplicity and readability.
+The Eiffel Tower is located in Paris, France.
